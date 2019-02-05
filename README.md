@@ -6,7 +6,7 @@ Create a backup for the targeted directory
 
 It creates a new directory named ```<target>_SAVE``` which will be your backup
 
-### Personal advice
+## Personal advice
 
 Add an alias on your _.bashrc_
 
