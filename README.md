@@ -2,7 +2,7 @@
 
 Create a backup for the targeted directory
 
-## How does it works
+## How does it work
 
 It creates a new directory named ```<target>_SAVE``` which will be your backup
 
